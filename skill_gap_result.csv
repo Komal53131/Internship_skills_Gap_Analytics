@@ -1,0 +1,11 @@
+Student_ID,Student_Name,Department,CGPA,SQL,Python,Excel,Power_BI,Tableau,Skill_Match_%,Missing_Skills,Readiness_Status
+S001,Student_1,CSE,8.7,1,1,1,1,0,100.0,None,Ready
+S002,Student_2,CSE,8.2,1,0,1,1,0,75.0,Python,Ready
+S003,Student_3,CSE,7.9,1,1,1,0,0,75.0,Power_BI,Ready
+S004,Student_4,CSE,9.1,1,1,1,1,1,100.0,None,Ready
+S005,Student_5,CSE,7.5,0,1,1,0,0,50.0,"SQL, Power_BI",Almost Ready
+S006,Student_6,CSE,8.5,1,1,0,1,0,75.0,Excel,Ready
+S007,Student_7,CSE,8.9,1,1,1,1,0,100.0,None,Ready
+S008,Student_8,CSE,7.8,1,0,1,0,1,50.0,"Python, Power_BI",Almost Ready
+S009,Student_9,CSE,8.3,1,1,1,0,0,75.0,Power_BI,Ready
+S010,Student_10,CSE,9.0,1,1,1,1,1,100.0,None,Ready

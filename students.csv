@@ -1,0 +1,11 @@
+Student_ID,Student_Name,Department,CGPA,SQL,Python,Excel,Power_BI,Tableau
+S001,Student_1,CSE,8.7,1,1,1,1,0
+S002,Student_2,CSE,8.2,1,0,1,1,0
+S003,Student_3,CSE,7.9,1,1,1,0,0
+S004,Student_4,CSE,9.1,1,1,1,1,1
+S005,Student_5,CSE,7.5,0,1,1,0,0
+S006,Student_6,CSE,8.5,1,1,0,1,0
+S007,Student_7,CSE,8.9,1,1,1,1,0
+S008,Student_8,CSE,7.8,1,0,1,0,1
+S009,Student_9,CSE,8.3,1,1,1,0,0
+S010,Student_10,CSE,9.0,1,1,1,1,1
